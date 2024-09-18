@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **Computer Purchasing Website**
+- 🔭 I’m currently working on **Journey Junction Project**
 
-- 🌱 I’m currently learning **Java Script,React,Mongodb,Express,Node js,**
+- 🌱 I’m currently learning **Android Studio, Cloud Computing**
 
 - 🤝 I’m looking for help with **Computer Purchasing Website**
 
-- 💬 Ask me about **HTML, JAVA ,JAVA SCRIPT ,C**
+- 💬 Ask me about **HTML, JAVA ,JAVA SCRIPT ,C, Android Studio**
 
 - 📫 How to reach me **prakashhalwai59@gmail.com**
 
@@ -40,4 +40,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash20162002&theme=dracula" alt="prakash20162002" /></p>
 
-[![Prakash Halwai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prakash20162002&theme=dracula)](https://github.com/Prakash20162002/github-readme-activity-graph)
+[[Prakash Halwai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prakash20162002&theme=dracula)](https://github.com/Prakash20162002/github-readme-activity-graph)
