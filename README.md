@@ -40,4 +40,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash20162002&theme=dracula" alt="prakash20162002" /></p>
 
-[[Prakash Halwai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prakash20162002&theme=dracula)](https://github.com/Prakash20162002/github-readme-activity-graph)
